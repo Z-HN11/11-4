@@ -10,6 +10,6 @@
   </author>
   <content src="index.html" />
   <platform name="android">
-    <icon src="res/tiger.png" />
+    <icon src="res/tiger.jpg" />
   </platform>
 </widget>
