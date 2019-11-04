@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.main" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>Z-HM</name>
+  <description>
+      An example for phonegap build APP from yflan@nfu.edu.tw.
+  </description>
+  <author href="" email="40741411@gm.nfu.edu.tw">
+      Yu-Feng Lan
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/tiger.png" />
+  </platform>
+</widget>
